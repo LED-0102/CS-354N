@@ -1,0 +1,8 @@
+-----------------------------------
+AND Gate could not be trained in 1000 epochs.
+-----------------------------------
+OR Gate could not be trained in 1000 epochs.
+-----------------------------------
+NAND Gate could not be trained in 1000 epochs.
+-----------------------------------
+NOR Gate could not be trained in 1000 epochs.

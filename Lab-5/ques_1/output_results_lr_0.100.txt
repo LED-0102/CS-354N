@@ -1,0 +1,56 @@
+-----------------------------------
+AND Gate trained in 11 epochs.
+Final Weights: 0.280548 0.112925 0.114649 
+Final Bias: -0.402399
+
+AND Gate Results:
+Input: (0, 0, 0) -> Output: 0
+Input: (0, 0, 1) -> Output: 0
+Input: (0, 1, 0) -> Output: 0
+Input: (0, 1, 1) -> Output: 0
+Input: (1, 0, 0) -> Output: 0
+Input: (1, 0, 1) -> Output: 0
+Input: (1, 1, 0) -> Output: 0
+Input: (1, 1, 1) -> Output: 1
+-----------------------------------
+OR Gate trained in 13 epochs.
+Final Weights: 0.980548 0.0129253 0.0146492 
+Final Bias: -0.00239874
+
+OR Gate Results:
+Input: (0, 0, 0) -> Output: 0
+Input: (0, 0, 1) -> Output: 1
+Input: (0, 1, 0) -> Output: 1
+Input: (0, 1, 1) -> Output: 1
+Input: (1, 0, 0) -> Output: 1
+Input: (1, 0, 1) -> Output: 1
+Input: (1, 1, 0) -> Output: 1
+Input: (1, 1, 1) -> Output: 1
+-----------------------------------
+NAND Gate trained in 15 epochs.
+Final Weights: -0.319452 -0.387075 -0.185351 
+Final Bias: 0.797601
+
+NAND Gate Results:
+Input: (0, 0, 0) -> Output: 1
+Input: (0, 0, 1) -> Output: 1
+Input: (0, 1, 0) -> Output: 1
+Input: (0, 1, 1) -> Output: 1
+Input: (1, 0, 0) -> Output: 1
+Input: (1, 0, 1) -> Output: 1
+Input: (1, 1, 0) -> Output: 1
+Input: (1, 1, 1) -> Output: 0
+-----------------------------------
+NOR Gate trained in 10 epochs.
+Final Weights: -0.119452 -0.687075 -0.585351 
+Final Bias: 0.0976013
+
+NOR Gate Results:
+Input: (0, 0, 0) -> Output: 1
+Input: (0, 0, 1) -> Output: 0
+Input: (0, 1, 0) -> Output: 0
+Input: (0, 1, 1) -> Output: 0
+Input: (1, 0, 0) -> Output: 0
+Input: (1, 0, 1) -> Output: 0
+Input: (1, 1, 0) -> Output: 0
+Input: (1, 1, 1) -> Output: 0

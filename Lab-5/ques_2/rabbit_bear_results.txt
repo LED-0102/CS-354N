@@ -1,0 +1,14 @@
+Training completed in 13 epochs.
+
+Final Weights: -0.0594137, -0.206677
+Final Bias: 0.836963
+
+Testing Results:
+Input: (1, 4) -> Predicted: 0 | Target: 0 ✅
+Input: (1, 5) -> Predicted: 0 | Target: 0 ✅
+Input: (2, 4) -> Predicted: 0 | Target: 0 ✅
+Input: (2, 5) -> Predicted: 0 | Target: 0 ✅
+Input: (3, 1) -> Predicted: 1 | Target: 1 ✅
+Input: (3, 2) -> Predicted: 1 | Target: 1 ✅
+Input: (4, 1) -> Predicted: 1 | Target: 1 ✅
+Input: (4, 2) -> Predicted: 1 | Target: 1 ✅
