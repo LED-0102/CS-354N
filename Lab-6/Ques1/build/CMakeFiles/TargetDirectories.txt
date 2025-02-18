@@ -1,0 +1,3 @@
+/home/darshil/LED/IITI/Intelligence Lab/Lab-6/Ques1/build/CMakeFiles/Ques1.dir
+/home/darshil/LED/IITI/Intelligence Lab/Lab-6/Ques1/build/CMakeFiles/edit_cache.dir
+/home/darshil/LED/IITI/Intelligence Lab/Lab-6/Ques1/build/CMakeFiles/rebuild_cache.dir

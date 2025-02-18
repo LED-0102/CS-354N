@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Ques1.dir/src/main.cpp.o CMakeFiles/Ques1.dir/src/NeuralNetwork.cpp.o CMakeFiles/Ques1.dir/src/Layer.cpp.o CMakeFiles/Ques1.dir/src/Activation.cpp.o -o Ques1

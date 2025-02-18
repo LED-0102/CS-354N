@@ -1,0 +1,51 @@
+Value differs at index 0. Expected 1 Predicted 0
+Correct Prediction: 0
+Value differs at index 2. Expected 1 Predicted 0
+Value differs at index 3. Expected 1 Predicted 0
+Value differs at index 4. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 11. Expected 1 Predicted 0
+Value differs at index 12. Expected 1 Predicted 0
+Correct Prediction: 0
+Value differs at index 14. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 18. Expected 1 Predicted 0
+Value differs at index 19. Expected 1 Predicted 0
+Value differs at index 20. Expected 1 Predicted 0
+Value differs at index 21. Expected 1 Predicted 0
+Correct Prediction: 0
+Value differs at index 23. Expected 1 Predicted 0
+Value differs at index 24. Expected 1 Predicted 0
+Value differs at index 25. Expected 1 Predicted 0
+Value differs at index 26. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 32. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 35. Expected 1 Predicted 0
+Value differs at index 36. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 40. Expected 1 Predicted 0
+Value differs at index 41. Expected 1 Predicted 0
+Value differs at index 42. Expected 1 Predicted 0
+Value differs at index 43. Expected 1 Predicted 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 47. Expected 1 Predicted 0
+Value differs at index 48. Expected 1 Predicted 0
+Correct Prediction: 0
+Model Accuracy: 52%

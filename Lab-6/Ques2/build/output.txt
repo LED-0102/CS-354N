@@ -1,0 +1,21 @@
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 6. Expected 0 Predicted 1
+Correct Prediction: 0
+Correct Prediction: 0
+Value differs at index 9. Expected 0 Predicted 1
+Value differs at index 10. Expected 1 Predicted 0
+Correct Prediction: 1
+Correct Prediction: 1
+Correct Prediction: 1
+Correct Prediction: 1
+Correct Prediction: 1
+Correct Prediction: 1
+Value differs at index 17. Expected 1 Predicted 0
+Correct Prediction: 1
+Correct Prediction: 1
+Model Accuracy: 80%
